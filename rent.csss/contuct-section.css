@@ -1,0 +1,20 @@
+.contuct-ariana-div {
+  margin-top: 40px;
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+}
+.ariana4-div {
+  height: 330px;
+}
+.ariana4 {
+  height: 100%;
+
+}
+.contact {
+  background-color: white;
+  text-align: center;
+  display: inline-block;
+  align-items: center;
+  margin-left: 30%;
+  font-size: 6vw;
+}

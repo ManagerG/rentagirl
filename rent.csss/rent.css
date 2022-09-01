@@ -1,0 +1,15 @@
+
+.rihanna-div {
+  position: relative;
+}
+.rent-a-girlfriend-riri {
+  position: absolute;
+  color: white;
+  font-size: 15vw;
+  top: 20%;
+  left: 5%;
+}
+.second-row-imgs {
+  display: grid;
+  grid-template-columns: 1fr
+}

@@ -1,0 +1,50 @@
+.date-options-div {
+  background-color: white;
+  text-align: center;
+  display: inline-block;
+  align-items: center;
+  margin-left: 30%;
+  font-size: 6vw;
+  margin-top: 40px;
+}
+.dates {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin-top: 50px;
+  grid-gap: 10px;
+  row-gap: 200px;
+  margin-bottom: 300px;
+}
+@media (min-width: 1000px) {
+  .dates {
+    grid-template-columns: 1fr 1fr 1fr 1fr
+  }
+}
+
+.date-description {
+  position: absolute;
+  color: black;
+  background-color: white;
+  font-size: 2vw;
+  padding: 5px;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(19, 172, 19);
+}
+.theme-park-img,
+.arcade,
+.cinema,
+.date-pic,
+.ice-cream,
+.coffee,
+.shopping,
+.mall {
+  height: 84%;
+}
+.all-dates {
+  position: relative;
+}
+.date-info {
+  color: black;
+}

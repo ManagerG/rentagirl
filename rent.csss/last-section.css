@@ -1,0 +1,23 @@
+.disclaimer-section {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 10px;
+  margin-top: 40px;
+}
+.last-para {
+  background-color: white;
+  color: black;
+  padding: 80px;
+  text-align: center;
+  margin-bottom: 0px;
+  font-size: 4vw;
+}
+.last-section {
+  margin-top: 200px;
+}
+.disclamer {
+  background-color: white;
+  display: inline-block;
+  margin-left: 10%;
+  font-size: 6vw;
+}
